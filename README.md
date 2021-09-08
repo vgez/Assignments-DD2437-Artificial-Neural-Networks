@@ -18,7 +18,7 @@ Complete assignment coursework for **DD2437** at KTH Royal Institute of Technolo
 
 ## Technologies
 
--   [Python 3](https://www.python.org/)
+-   [Python3](https://www.python.org/)
 -   [NumPy](https://numpy.org/)
 
 ## Assignment Details
