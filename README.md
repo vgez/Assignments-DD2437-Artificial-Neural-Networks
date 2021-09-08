@@ -6,14 +6,14 @@ Complete assignment coursework for DD2437 at KTH Royal Institute of Technology. 
 
 <ul>
     <li>
+        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+    </li>  
+    <li>
         <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
     </li>
     <li>
         <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
     </li>
-    <li>
-        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
-    </li>  
 </ul>
 
 ## Technologies
@@ -39,4 +39,4 @@ Here the focus was on Hopfield Networks. A rather outdated network architecture,
 
 In the final assignment, focus was on deep neural networks and more specifically Restricted Boltzmann Machines (RBMs) and Deep Belief Nets (DBNs). Image recognition tasks were performed on both architectures. Greedy layer-wise pretraining was explored on the DBNs, consisting of stacked RBM architectures. The generation task was also explored using Gibbs sampling.
 
-More details available in the <a href="https://github.com/Frosslund/Assignments-DD2437-Artificial-Neural-Networks/tree/main/Assignment%20Reports">assignment reports</a>
+More details available in the <a href="https://github.com/vgez/Assignments-DD2437-Artificial-Neural-Networks/tree/main/Assignment%20Reports">assignment reports</a>
