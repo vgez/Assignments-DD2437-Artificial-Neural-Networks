@@ -6,13 +6,13 @@ Complete assignment coursework for DD2437 at KTH Royal Institute of Technology. 
 
 <ul>
     <li>
-        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+        <strong>Valdemar Gezelius</strong>
     </li>  
     <li>
-        <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
+        <strong>Maximilian Auer</strong>
     </li>
     <li>
-        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
+        <strong>Lukas Frösslund</strong>
     </li>
 </ul>
 
